@@ -10,5 +10,6 @@ public class HelloWorld {
 		// some updates
 		// abc
 		// change1.
+		int a = 0;
 	}
 }
